@@ -1,6 +1,15 @@
 # Applied-Machine-Learning-in-Python
 
-*This is one of the courses in Coursera which will introduce to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods.*
+*This is one of the courses in Coursera which will introduce to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. - October 2020*
+
+## Objectives
+
+- Identify the difference between a supervised (classification) and unsupervised (clustering) technique.
+- Identify which technique they need to apply for a particular dataset and need.
+- Engineer features to meet that need.
+- Write python code to carry out an analysis.
+
+<br>
 
 ## Syllabus
 
@@ -31,13 +40,4 @@
 - Apply the right algorithm for a given task by understanding the strengths and weaknesses of additional supervised learning methods.
 - Apply additional types of supervised machine learning algorithms in Python with scikit-learn.
 - Recognize and avoid instances of data leakage.
-
-<br>
-
-## What we will learn
-
-- identify the difference between a supervised (classification) and unsupervised (clustering) technique.
-- identify which technique they need to apply for a particular dataset and need.
-- engineer features to meet that need.
-- write python code to carry out an analysis.
 
