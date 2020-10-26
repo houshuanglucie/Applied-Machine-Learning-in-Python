@@ -1,6 +1,6 @@
 # Applied-Machine-Learning-in-Python
 
-*This is one of the courses in Coursera which will introduce to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. - October 2020*
+*This is one of the courses in Coursera which introduceS to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. - October 2020*
 
 ## Objectives
 
