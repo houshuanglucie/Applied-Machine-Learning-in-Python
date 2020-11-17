@@ -1,6 +1,6 @@
 # Applied-Machine-Learning-in-Python
 
-*This is one of the courses I studied on Coursera which introduces the application of machine learning, focusing more on the techniques and methods than on the statistics behind these methods. ([View Certificate](https://www.coursera.org/account/accomplishments/verify/FWP27QQH3DWB)) - October 2020*
+*This is one course I studied on Coursera which introduces the application of machine learning, focusing more on the techniques and methods than on the statistics behind these methods. ([View Certificate](https://www.coursera.org/account/accomplishments/verify/FWP27QQH3DWB)) - October 2020*
 
 ## Objectives
 
